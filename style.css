@@ -1,0 +1,73 @@
+.boxes{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.BPo-agDKfuziRsOZp--sOwAAAA&pid=Api&P=0&h=220);
+    background-size: cover;
+    
+}
+
+.box1{
+    width: 33%;
+    height: 50%;
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.3DqepzgDOcqVicHmcYs4AAHaE8&pid=Api&P=0&h=220);
+    background-size: cover;
+}
+
+.box2{
+    width: 33%;
+    height: 50%;
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.BUeRxJHeqTK64xbxLhKGcgHaE8&pid=Api&P=0&h=220);
+    background-size: cover;
+}
+
+.box3{
+    width: 33%;
+    height: 50%;
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.Ye10Z6JF3KfCypTSFTp1zAHaEK&pid=Api&P=0&h=220);
+    background-size: cover;
+}
+
+.box4{
+    width: 33%;
+    height: 50%;
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.reYUJFPg7yzKqpPdfa1rWwHaE8&pid=Api&P=0&h=220);
+    background-size: cover;
+}
+
+.box5{
+    width: 33%;
+    height: 50%;
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.qDxRdkysaqjYsNmzS6EZCQHaFc&pid=Api&P=0&h=220);
+    background-size: cover;
+}
+
+#Box4{
+    margin-left: 20%;
+}
+
+
+
+.text{
+    font-weight: bold;
+    font-size: 35px;
+    height: 100px;
+    width: 120px;
+    color: black;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.RbgU46_uzGWhO4XDn2LhjAHaHa&pid=Api&P=0&h=220);
+    
+}
+
+#bx3text{
+    height: 35px;
+    width: 150px;
+    color: black;
+}
+
+#bx4text{
+    height: 145px;
+    width: 150px;
+    color: black;
+}
+ 
